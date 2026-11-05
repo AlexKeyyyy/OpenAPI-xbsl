@@ -9,7 +9,11 @@
 
 ## [Не выпущено]
 
-## [1.0.0] - 2026-11-05
+### Добавлено
+
+- Руководство разработчика `docs/guide.md`.
+
+## [1.0] - 2026-11-05
 
 Первый публичный релиз.
 
@@ -31,5 +35,5 @@
 
 Совместимость: `РежимСовместимости: 8.0`.
 
-[Не выпущено]: https://github.com/AlexKeyyyy/OpenAPI-xbsl/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/AlexKeyyyy/OpenAPI-xbsl/releases/tag/v1.0.0
+[Не выпущено]: https://github.com/AlexKeyyyy/OpenAPI-xbsl/compare/v1.0...HEAD
+[1.0]: https://github.com/AlexKeyyyy/OpenAPI-xbsl/releases/tag/v1.0
