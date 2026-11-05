@@ -1,7 +1,7 @@
 // /api/docs — оглавление сценариев, /api/docs/{scenario} — Swagger UI,
 // /api/docs/{scenario}/openapi.json — спецификация, /api/docs/{scenario}/sample — реальный JSON примера.
 
-импорт biatech::ГенераторOpenApi::Основное
+импорт AlexKey::OpenAPI::Основное
 
 метод ОглавлениеGETОбработкаЗапроса(Запрос: HttpСервисЗапрос)
     // Ссылки относительные: оглавление открывается по адресу /api/docs без завершающей косой черты
