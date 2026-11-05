@@ -1,2 +1,9 @@
+# IDE
 /.theia
 /.vscode
+
+# Claude Code: локальные настройки, скиллы и инструкции агента
+/.claude/
+/CLAUDE.md
+
+__pycache__/
